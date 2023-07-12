@@ -1,6 +1,6 @@
 # Tech Talk - k0smotron - Part 1 - Introduction
 
-This repository contains all necessary code snippets and a guide replicate the demo shown in the Tech Talk [Revolutionizing Kubernetes: Harness the Power of k0smotron for Scalable Control Planes](https://www.mirantis.com/labs/revolutionizing-kubernetes-harness-the-power-of-k0smotron-for-scalable-control-planes). 
+This repository contains all necessary code snippets and a guide to replicate the demo shown in the Tech Talk [Revolutionizing Kubernetes: Harness the Power of k0smotron for Scalable Control Planes](https://www.mirantis.com/labs/revolutionizing-kubernetes-harness-the-power-of-k0smotron-for-scalable-control-planes). 
 
 ### Versions
 The following version will be used in this repository: 
